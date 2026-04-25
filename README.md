@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/74/40/21/7440210cfa7f959af99fb330c50127d5.gif" width="100%" height="50%" alt="Banner de Desarrolladora Full Stack">
-</p>
+
 
 <div align="center">
   <h1>Hola, Soy Alvarz R</h1>
@@ -8,13 +6,15 @@
 </div>
 ----
 <div align="center">
-  <h4>Para conocer y saber mas de mi experiencia y mis proyectos, accede a mi portafolio precionando el boton</h4>
-<a href="https://alvarzr18.github.io/Mi-Portafolio/">
-  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/9024fd7f-e9ce-4035-9bb2-0fc3f3946faf" width="200" alt="Botón Personalizado">
-</a>
+  <h4>Para conocer y saber mas de mi experiencia y mis proyectos, accede a mi portafolio </h4>
+
 </div>
-
-
+<div align="center">
+  <h1>
+    Mi Portafolio
+<a href="https://alvarzr18.github.io/Mi-Portafolio/"></a>
+</h1>
+</div>
 <table align="right">
   <tr>
     <td>
