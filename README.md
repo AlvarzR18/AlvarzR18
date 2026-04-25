@@ -10,7 +10,6 @@
 
 </div>
 <div align="center">
-    Mi Portafolio
 <a href="https://alvarzr18.github.io/Mi-Portafolio/">Mi Portafolio</a>
 </div>
 <table align="right">
