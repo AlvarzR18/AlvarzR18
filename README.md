@@ -10,10 +10,8 @@
 
 </div>
 <div align="center">
-  <h1>
     Mi Portafolio
-<a href="https://alvarzr18.github.io/Mi-Portafolio/"></a>
-</h1>
+<a href="https://alvarzr18.github.io/Mi-Portafolio/">Mi Portafolio</a>
 </div>
 <table align="right">
   <tr>
